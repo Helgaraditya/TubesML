@@ -1,7 +1,7 @@
 # Tugas Besar Mata Kuliah Machine Learning - KMeans Clustering 2024-2025
 Segmentasi Pelanggan dengan KMeans Clustering
 
-Proyek ini menerapkan **KMeans Clustering** untuk mengelompokkan pelanggan berdasarkan data pengeluaran tahunan mereka pada berbagai kategori produk. Dataset yang digunakan adalah [Wholesale Customers Dataset](https://archive.ics.uci.edu/dataset/292/wholesale+customers) dari UCI Machine Learning Repository.
+Proyek ini menerapkan **KMeans Clustering** untuk mengelompokkan pelanggan berdasarkan data pengeluaran mereka pada berbagai kategori produk. Dataset yang digunakan adalah [Wholesale Customers Dataset](https://archive.ics.uci.edu/dataset/292/wholesale+customers) dari UCI Machine Learning Repository.
 
 ## 📌 Ringkasan Proyek
 
