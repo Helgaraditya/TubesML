@@ -11,7 +11,9 @@ Proyek ini menerapkan **KMeans Clustering** untuk mengelompokkan pelanggan berda
 - **Evaluasi**: Silhouette Score dan SSE (Metode Elbow)
 - **Visualisasi**: Histogram, Boxplot, dan Scatter Plot antar Cluster
 
+
 Kelas : DS-02-01
+
 Anggota Kelompok :
 1. Helga Fadhil Raditya ( 1206220043 )
 2. Yoseph Friden Bani Wodju ( 1206220041 )
